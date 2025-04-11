@@ -1,0 +1,5 @@
+Niranjan,60%
+Amal,40%
+Justin,70%
+Midhun,79%
+Bijoy,9% 
